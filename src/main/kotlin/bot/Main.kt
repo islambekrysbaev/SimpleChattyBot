@@ -51,4 +51,3 @@ private fun test() {
 }
 
 private fun end() = println("Congratulations, have a nice day!")
-
