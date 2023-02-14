@@ -12,7 +12,7 @@ fun main() {
     end()
 }
 
-private fun greeting(){
+private fun greeting() {
     println("Hello! My name is $ASSISTANT_NAME.")
     println("I was created in $BIRTH_DATE.")
     println("Please, remind me your name.")
